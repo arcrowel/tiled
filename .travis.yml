@@ -13,7 +13,7 @@ addons:
     project:
       name: "bjorn/tiled"
       description: "A generic tile map editor"
-    notification_email: bjorn@lindeijer.nl
+    notification_email: arcrowel@ncsu.edu
     build_command_prepend: qmake
     build_command: make
     branch_pattern: coverity_scan
